@@ -14,13 +14,14 @@ A 3D-printable, 4-DOF robotic arm featuring a turning base and a custom 3-gear c
 
 ## Hardware & Bill of Materials (BOM)
 
-| Item Description | Details / Specs | Qty |
-| :--- | :--- | :---: |
-| **M2×22 Hex Socket Cap Screws** | DIN 912 steel, grade 12.9, full thread | 1 pack (10 pcs) |
-| **25T Aluminum Round Servo Horn** | Silver round servo horn for 25T splines (MG995/MG996R) | 3 |
-| **MG996R Servo Motor** | High-torque metal gear servo motor | 3 |
-| **SG90 180° Micro Servo** | 9g nylon gear micro servo | 2 |
-| **Arduino Uno R3** | ATmega328P microcontroller board | 1 |
+| Item Description | Details / Specs | Quantity | Unit Price ($) | Total Price ($) | Supplier / Source |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **M2×22 Hex Socket Cap Screws** | DIN 912 steel, grade 12.9, full thread (Pack of 10) | 1 | $2.93 | $2.93 | Ozon |
+| **25T Aluminum Round Servo Horn** | Silver round servo horn for 25T splines (MG995/MG996R) | 3 | $6.28 | $18.84 | Ozon |
+| **MG996R Servo Motor** | High-torque metal gear servo motor | 3 | $8.43 | $25.29 | Ozon |
+| **SG90 180° Micro Servo** | 9g nylon gear micro servo | 2 | $3.50 | $7.00 | Online Vendor |
+| **Arduino Uno R3** | ATmega328P microcontroller board with USB cable | 1 | $4.99 | $4.99 | Micro Center |
+| **TOTAL** | — | — | — | **$59.05** | — |
 
 ---
 
