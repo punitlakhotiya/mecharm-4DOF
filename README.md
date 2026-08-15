@@ -1,6 +1,7 @@
 # mecharm-4DOF
 
 A 3D-printable, 4-DOF robotic arm featuring a turning base and a custom 3-gear claw powered by an Arduino Uno.
+This is made just to work on my skills for cadding.
 
 ---
 
@@ -11,7 +12,7 @@ A 3D-printable, 4-DOF robotic arm featuring a turning base and a custom 3-gear c
 * **3-Gear Claw:** Center driven servo gear driving two identical finger gears for gripping motion.
 * **Arduino Control Firmware:** Basic Arduino control
 ---
-
+<img src="IMAGES/7) 08-10-26 - Part 2/image.png" alt="image error">
 ## Hardware & Bill of Materials (BOM)
 
 | Item Description | Details / Specs | Quantity | Unit Price ($) | Total Price ($) | Supplier / Source |
