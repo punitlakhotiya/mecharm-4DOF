@@ -13,6 +13,7 @@ This is made just to work on my skills for cadding.
 * **Arduino Control Firmware:** Basic Arduino control
 ---
 <img src="IMAGES/7) 08-10-26 - Part 2/image.png" alt="image error">
+
 ## Hardware & Bill of Materials (BOM)
 
 | Item Description | Details / Specs | Quantity | Unit Price ($) | Total Price ($) | Supplier / Source |
