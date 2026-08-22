@@ -4,6 +4,9 @@ A 3D-printable, 4-DOF robotic arm featuring a turning base and a custom 3-gear c
 This is made just to work on my skills for cadding.
 
 ---
+Time lapse of my work - 
+
+https://github.com/user-attachments/assets/57eb65c5-5014-4d64-9332-9a7585189ace
 
 ## Features
 
